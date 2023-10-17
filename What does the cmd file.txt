@@ -1,0 +1,5 @@
+it use pyinstaller do make RandompasswordGenerator.py in RandompasswordGenerator.exe
+the code is : pip install pyinstaller
+cd C:\Users\User\OneDrive\Desktop\PasswordGenerator
+pyinstaller RandompasswordGenerator.py
+start C:\Users\User\OneDrive\Desktop\PasswordGenerator\dist\RandompasswordGenerator
